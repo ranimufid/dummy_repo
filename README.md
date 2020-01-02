@@ -1,3 +1,2 @@
 # dummy_repo
-sup
-sup
+sup sup
